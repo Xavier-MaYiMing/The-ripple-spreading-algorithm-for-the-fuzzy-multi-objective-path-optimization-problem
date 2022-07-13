@@ -24,6 +24,7 @@
 | Omega         | Dictionary, Omega[n] = i denotes that ripple i is generated at node n |
 
 #### Example
+![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-fuzzy-multi-objective-path-optimization-problem/blob/main/FMOPOP_example.PNG)
 
 |  Arc  | Crisp 1 | Crisp 2 |   Fuzzy 1    |   Fuzzy 2    |
 | :---: | :-----: | :-----: | :----------: | :----------: |
