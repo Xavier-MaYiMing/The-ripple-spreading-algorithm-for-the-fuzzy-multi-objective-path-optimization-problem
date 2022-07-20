@@ -1,6 +1,7 @@
 ### The Ripple-Spreading Algorithm for the Fuzzy Multi-Objective Path Optimization Problem
 
 ##### Reference: Ma Y M, Hu X B, Zhou H. A deterministic and nature-inspired algorithm for the fuzzy multi-objective path optimization problem[J]. Complex & Intelligent Systems, 2022, accepted.
+Each arc in the fuzzy multi-objective path optimization problem has multiple crisp and fuzzy weights. The fuzzy weights are represented by triangular or trapezoidal fuzzy numbers. The ripple-spreading algorithm can find all Pareto-optimal paths from one node to all other nodes within a single run.
 
 | Variables     | Meaning                                                      |
 | ------------- | ------------------------------------------------------------ |
