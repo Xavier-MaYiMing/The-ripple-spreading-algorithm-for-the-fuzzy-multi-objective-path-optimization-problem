@@ -5,8 +5,7 @@
 # @Email   : xavier_mayiming@163.com
 # @File    : RSA4FMOPOP.py
 # @Statement : The ripple-spreading algorithm for the fuzzy multi-objective path optimization problem
-# @Reference : Ma Y M, Hu X B, Zhou H. A deterministic and nature-inspired algorithm for the fuzzy multi-objective path
-# optimization problem[J]. Complex & Intelligent Systems, 2022, accepted.
+# @Reference : Ma, YM., Hu, XB. & Zhou, H. A deterministic and nature-inspired algorithm for the fuzzy multi-objective path optimization problem. Complex Intell. Syst. (2022). https://doi.org/10.1007/s40747-022-00825-3
 import copy
 import fuzzy_distance as dis
 
